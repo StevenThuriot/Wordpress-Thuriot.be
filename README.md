@@ -1,4 +1,4 @@
-Wordpress-Thuriot.be
+Thuriot.be
 ====================
 
 Old website's theme, because nostalgia.
