@@ -1,0 +1,32 @@
+#message, #wrong_message {
+
+	width: 95%; 
+	margin-left: 20px;
+}
+
+#message {
+	background-color: rgb(255, 251, 204); 
+}
+
+#wrong_message {
+	background-color: rgb(255, 0, 0); 
+}
+
+#formWrapper
+{
+	text-align: center;
+}
+
+#formWrapper table
+{ 
+	margin-left: 10em;
+}
+
+.themeform td {
+	padding-right: 1em;
+	padding-left: 1em;
+}
+
+#submitTD {
+	text-align: center;
+}
